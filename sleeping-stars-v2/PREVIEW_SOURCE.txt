@@ -1,4 +1,4 @@
 source_repo=ennea5w4/sleeping-stars-v2
-source_branch=feature/character-refresh-20261124
-source_commit=c78c35ea88547bb660259b197e0137f5f7647ded
+source_branch=feature/renewal-edition-20261124
+source_commit=4690d18664e5aa844d6aa524a4e85ba77c40e6c8
 preview_only_change=meta robots noindex added to 3 HTML files
